@@ -1,0 +1,35 @@
+Version Control System = VCS
+Distributed Version Control System = DVCS 
+Open Source Software = OSS
+Fork = kisi aur ka project apne github pe copy karna
+PR = Pull Request = Suggest karna ke aapka code 
+unke project mein merge ho.
+maintainer = Project ka caretaker 
+license : usage rules (MIT, GPL, Apache, etc. ) 
+
+1st step ==> git init 
+2nd step ==> git status ==> check the status of your repo
+3rd step ==> git add . ==> track everything.
+4th step ==> git commit -m "Commit here"
+5th step ==> git remote add origin URL here
+
+
+
+
+
+
+Config your profile ===>
+
+git config --global user.name "Your Github Name"
+git config --global user.email "Your github Email here"
+
+
+
+
+
+
+
+
+
+
+
